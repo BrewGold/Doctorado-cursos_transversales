@@ -1,0 +1,11 @@
+revision_fuente: bcc97816212b48ea0aed2849c85d9b0065c223ed
+url_zip: https://raw.githubusercontent.com/BrewGold/Doctorado-densimetro/bcc97816212b48ea0aed2849c85d9b0065c223ed/references/tfm/datos_udp.zip
+md5_zip: 2aeb5372c77fe3b04d520eade81e3b18
+ventana_principal_s: 10
+ventanas_sensibilidad_s: 5, 15, 20
+tolerancia_deriva_10s_deg: 0.1
+tolerancia_ventanas_deg: 0.1
+max_hueco_advertencia_s: 0.1
+max_hueco_calculo_s: 1
+fraccion_minima_muestras_esperadas: 0.9
+alfa: 0.05
